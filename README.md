@@ -21,5 +21,5 @@ Here’s a quick overview of the technologies I work with:
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/shabeensharih/)
 
 <div align="center">
-  <sub><sup>Created by ChatGPT</sup></sub>
+  <sub><sup>🪄Crafted by ChatGPT</sup></sub>
 </div>
