@@ -14,7 +14,7 @@ Here’s a quick overview of the technologies I work with:
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Get In Touch
 <a href="https://www.linkedin.com/in/shabeen-sharih/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
