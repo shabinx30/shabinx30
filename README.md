@@ -18,12 +18,13 @@ Here’s a quick overview of the technologies I work with:
 <a href="https://www.linkedin.com/in/shabeen-sharih/" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<a href="https://www.instagram.com/shabinsharih/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" />
-</a>
 <a href="mailto:shabeensharih@gmail.com" target="_blank">
   <img src="https://skillicons.dev/icons?i=gmail" />
 </a>
+<a href="https://www.instagram.com/shabinsharih/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" />
+</a>
+
 
 <div align="center">
   <sub><sup>✨Crafted by ChatGPT✨</sup></sub>
