@@ -26,6 +26,6 @@ Here’s a quick overview of the technologies I work with:
 </a>
 
 
-<div align="center">
+<!-- <div align="center">
   <sub><sup>✨Crafted by ChatGPT✨</sup></sub>
-</div>
+</div> -->
