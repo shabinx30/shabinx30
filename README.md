@@ -16,7 +16,7 @@ Here’s a quick overview of the technologies I work with:
 
 ### Backend & Databases
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,postgres,npm" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,postgres,npm" />&nbsp;&nbsp;<img src="socket.io_logo.png" width="46" height="46" />
 </p>
 
 ### Languages
