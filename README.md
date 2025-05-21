@@ -26,7 +26,7 @@ Here’s a quick overview of the technologies I work with:
 
 ### Cloud & Deployment
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,aws" />&nbsp;<img src="render_logo.png" width="50" height="50" />
+  <img src="https://skillicons.dev/icons?i=vercel,aws" />&nbsp;&nbsp;<img src="render_logo.png" width="50" height="50" />
 </p>
 
 ### Tools
