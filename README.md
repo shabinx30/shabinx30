@@ -9,19 +9,19 @@ Hello, Welcome to my GitHub profile! I'm a highly passionate web developer, cons
 Here’s a quick overview of the technologies I work with:
 
 
+### FrontEnd
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,next,react,vite,redux,tailwind,bootstrap" />
+</p>
+
+### Backend & Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,postgres" />
+</p>
+
 ### Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts" />
-</p>
-
-### FrontEnd
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,next,react,vite,redux,tailwind" />
-</p>
-
-### Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,postgres" />
 </p>
 
 ### Cloud & Deployment
