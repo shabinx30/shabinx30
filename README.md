@@ -8,10 +8,8 @@ Hello, Welcome to my GitHub profile! I'm a highly passionate web developer, cons
 
 Here’s a quick overview of the technologies I work with:
 
-<p align="center">
-  
-  ### Languages
-</p>
+
+### Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts" />
 </p>
@@ -49,7 +47,3 @@ Here’s a quick overview of the technologies I work with:
   <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 
-
-<!-- <div align="center">
-  <sub><sup>✨Crafted by ChatGPT✨</sup></sub>
-</div> -->
