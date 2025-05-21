@@ -29,6 +29,11 @@ Here’s a quick overview of the technologies I work with:
   <img src="https://skillicons.dev/icons?i=vercel,aws" />
 </p>
 
+## test
+<p align="center">
+  ![Alt text](render_logo.png)
+</p>
+
 ### Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
