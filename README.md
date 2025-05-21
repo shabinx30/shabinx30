@@ -10,7 +10,7 @@ Here’s a quick overview of the technologies I work with:
 
 ### Languages
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,next,react,vite,redux,nodejs,express,firebase,mongodb,postgres,tailwind,git,github,figma,vercel" />
+  <img src="https://skillicons.dev/icons?i=js,ts" />
 </p>
 
 ### FrontEnd
@@ -25,7 +25,12 @@ Here’s a quick overview of the technologies I work with:
 
 ### Cloud & Deployment
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,render" />
+  <img src="https://skillicons.dev/icons?i=vercel,aws," />
+</p>
+
+### Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
