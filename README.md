@@ -31,7 +31,7 @@ Here’s a quick overview of the technologies I work with:
 
 ## test
 <p align="center">
-  <img src="render_logo.png" />
+  <img src="render_logo.png" width="30" height="30" />
 </p>
 
 ### Tools
