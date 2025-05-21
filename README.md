@@ -30,9 +30,9 @@ Here’s a quick overview of the technologies I work with:
 </p>
 
 ## test
-
-  ![Alt text](render_logo.png)
-
+<p align="center">
+  <img src="render_logo.png" />
+</p>
 
 ### Tools
 <p align="center">
