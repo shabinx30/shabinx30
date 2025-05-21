@@ -8,6 +8,7 @@ Hello, Welcome to my GitHub profile! I'm a highly passionate web developer, cons
 
 Here’s a quick overview of the technologies I work with:
 
+### Languages
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,next,react,vite,redux,nodejs,express,firebase,mongodb,postgres,tailwind,git,github,figma,vercel" />
 </p>
