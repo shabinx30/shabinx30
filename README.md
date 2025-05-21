@@ -13,6 +13,21 @@ Here’s a quick overview of the technologies I work with:
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,next,react,vite,redux,nodejs,express,firebase,mongodb,postgres,tailwind,git,github,figma,vercel" />
 </p>
 
+### FrontEnd
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,next,react,vite,redux,tailwind" />
+</p>
+
+### Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,postgres" />
+</p>
+
+### Cloud & Deployment
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vercel,render" />
+</p>
+
 ---
 
 ## 🌐 Get In Touch
