@@ -31,7 +31,7 @@ Here’s a quick overview of the technologies I work with:
 
 ### Tools 🛠️
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
 </p>
 
 ---
