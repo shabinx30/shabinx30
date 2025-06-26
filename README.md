@@ -19,19 +19,15 @@ Here’s a quick overview of the technologies I work with:
   <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,postgres,npm" />&nbsp;<img src="socket.io_logo.png" width="46" height="46" />&nbsp;<img src="icon.svg" width="48" height="48" />
 </p>
 
-### Languages 🪄
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts" />
-</p>
 
 ### Cloud ☁️ & Deployment 🗄️
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vercel,aws" />&nbsp;&nbsp;<img src="render_logo.png" width="44" height="44" />
 </p>
 
-### Tools 🛠️
+### Tools 🛠️ & Languages 🪄
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,js,ts" />
 </p>
 
 ---
