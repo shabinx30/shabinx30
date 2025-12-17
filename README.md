@@ -16,7 +16,7 @@ Here’s a quick overview of the technologies I work with:
 
 ### Backend 🧠 & Databases 🛢️
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,firebase,mongodb,postgres,npm" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,firebase,mongodb,postgres,npm,pnpm,bun" />
 </p>
 
 
