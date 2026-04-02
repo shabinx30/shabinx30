@@ -11,7 +11,7 @@ Here’s a quick overview of the technologies I work with:
 
 ### FrontEnd 💻
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,next,react,vite,redux,tailwind,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=html,css,next,react,vite,redux,tailwind,bootstrap,opencv" />
 </p>
 
 ### Backend 🧠 & Databases 🛢️
